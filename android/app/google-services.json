@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "326644770122",
+    "project_id": "az-cash-4034c",
+    "storage_bucket": "az-cash-4034c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326644770122:android:a98819947f2188ca490db3",
+        "android_client_info": {
+          "package_name": "com.az_cash.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326644770122-k0quns8sgibj2fngsakf9hagodbqtp2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.az_cash.customer",
+            "certificate_hash": "95dfacfd0ff6e2447ab1f30c510b9fa7ae9ac115"
+          }
+        },
+        {
+          "client_id": "326644770122-4eisulqru7b0c47oj781o8bvurjmudoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEA-sdVdxR_0lXzu_mcnTFR3myqMGGRfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326644770122-4eisulqru7b0c47oj781o8bvurjmudoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
